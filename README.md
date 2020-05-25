@@ -14,3 +14,7 @@ for contour in cnts:
  ```
  
  This also takes a picture of the bird because brids are cool. And the audio clip is from Attack On Titan because thats cool too. You can change the audio to anything you want just name the file eren.mp3. That is all :D.
+
+![Heres a bird](https://raw.githubusercontent.com/adidtdh/prevent-birds-from-hitting-window-inator/master/camera/birdpics/2020%2C4%2C26%2C17%2C25%2C15.png)
+
+Heres the picture of the bird I got. It is in the bottom right corner. 
